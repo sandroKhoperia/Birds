@@ -1,0 +1,22 @@
+public enum BirdType {
+    GRAYPARROT,
+    ROSERINGPARAKEET,
+    SULFURCRESTEDCOCKATOO,
+    HAWK,
+    EAGLE,
+    OSPREY,
+    KIWI,
+    MOA,
+    EMU,
+    OWL,
+    PIGEON,
+    DOVE,
+    GREATAUK,
+    HORNEDPUFFIN,
+    AFRICANJACANA,
+    DUCK,
+    SWAN,
+    GOOSE,
+    OTHER
+
+}
